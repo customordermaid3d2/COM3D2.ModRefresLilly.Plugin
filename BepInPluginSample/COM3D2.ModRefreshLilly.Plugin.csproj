@@ -7,8 +7,8 @@
     <ProjectGuid>{AC5AB442-3718-4E4D-A729-69DD82F7DA79}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>COM3D2.ModRefresLilly.Plugin</RootNamespace>
-    <AssemblyName>COM3D2.ModRefresLilly.Plugin</AssemblyName>
+    <RootNamespace>COM3D2.ModRefreshLilly.Plugin</RootNamespace>
+    <AssemblyName>COM3D2.ModRefreshLilly.Plugin</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -62,6 +62,7 @@
     </Reference>
     <Reference Include="COM3D2.LillyUtill">
       <HintPath>C:\Downloads\plugin\COM3D2.LillyUtill.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net35\Newtonsoft.Json.dll</HintPath>
