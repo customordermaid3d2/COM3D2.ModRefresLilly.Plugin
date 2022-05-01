@@ -6,9 +6,7 @@ COM3D2\BepInEx\plugins
 # 필요한거
 
 - BepInEx https://github.com/BepInEx/BepInEx  
-- SybarisLoader https://github.com/BepInEx/BepInEx.SybarisLoader.Patcher  
-- UnityInjectorLoader https://github.com/BepInEx/BepInEx.UnityInjectorLoader  
 
-- COM3D2.API.dll  https://github.com/DeathWeasel1337/COM3D2_Plugins/releases/download/v3/COM3D2.API.v1.0.zip
-- LillyUtill  21.7.22 over https://github.com/customordermaid3d2/COM3D2.LillyUtill/releases  
-- System.Threading.dll
+- CM3D2.Toolkit.Guest4168Branch.dll https://github.com/JustAGuest4168/CM3D2.Toolkit/releases  
+- COM3D2.API.dll edit version https://github.com/customordermaid3d2/COM3D2_Plugins  
+- System.Threading.dll  
